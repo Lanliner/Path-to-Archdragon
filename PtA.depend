@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1607000934 source:c:\users\asus\desktop\xzh\课程设计\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<conio.h>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<Mmsystem.h>
+	"body.cpp"
+
+1606738595 c:\users\asus\desktop\xzh\课程设计\util.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<conio.h>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<Mmsystem.h>
+
+1606741047 c:\users\asus\desktop\xzh\课程设计\fight.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<conio.h>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<Mmsystem.h>
+	"util.cpp"
+
+1606738656 source:c:\users\asus\desktop\xzh\课程设计\fight.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<conio.h>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<Mmsystem.h>
+	"util.cpp"
+
+1606738595 source:c:\users\asus\desktop\xzh\课程设计\util.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<conio.h>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<Mmsystem.h>
+
+1607001198 c:\users\asus\desktop\xzh\课程设计\body.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<conio.h>
+	<cstring>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<Mmsystem.h>
+	<thread>
+	<mutex>
+	"util.cpp"
+
